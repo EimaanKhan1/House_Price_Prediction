@@ -175,5 +175,5 @@ The project includes:
 
 ## 👨‍💻 Author
 
-Adeel
-BS Data Science | AI Engineer
+Eimaan Khan  
+BS Computer Science | AI Engineer
